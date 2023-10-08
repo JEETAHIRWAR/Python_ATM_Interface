@@ -186,7 +186,7 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 If you find this project useful or have any feedback, please consider leaving a star (⭐) on the GitHub repository. Your feedback and support are greatly appreciated!
 
-[Give a Star](https://github.com/JEETAHIRWAR/atm-interface/stargazers)
+[Give a Star](https://github.com/JEETAHIRWAR/Python_ATM_Interface/stargazers)
 
 ---
 
