@@ -176,7 +176,8 @@ We welcome contributions from the community! If you'd like to contribute to this
 7. Your PR will be reviewed, and any necessary feedback or adjustments will be discussed.
 8. Once your PR is approved, it will be merged into the main project.
 
-  - Thank you for contributing to this project!
+#### <span style="color: green;">Thank you for contributing to this project!</span>
+
 
 
 ---
@@ -194,14 +195,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<details>
-<summary>Thank You 🙏</summary>
+<div>
+<h3 align="center">❤️Thank You 😎</h3>
 
 <div align="center">
-  <p>Thank you for checking out my project!</p>
+  <p>😊Thank you for checking out my project!</p>
   <img src="https://github.com/JEETAHIRWAR/Python_ATM_Interface/assets/102626329/34cec5ca-b807-4f71-be12-98b7fc8698a1" alt="Happy Hacking" width="200">
-  <p>Your support means a lot to me. If you have any questions or feedback, feel free to reach out.</p>
+  <p>🥳Your support means a lot to me. If you have any questions or feedback, feel free to reach out.</p>
 </div>
 
-</details>
+</div>
+
+----
+----
 
